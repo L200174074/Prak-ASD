@@ -1,0 +1,2 @@
+class kelasKosongan(object):
+    pass
